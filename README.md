@@ -17,7 +17,7 @@ Studiju kursa Datormācība (pamatkurss) elektronikas fakultate
 
 **Komandas**
 
-1. **whoami** - uzzināt, kas es esmu sistēmā;
+1.**whoami** - uzzināt, kas es esmu sistēmā;
 
 2.**pwd** - pašreizējā atrašanās vita sistēmā;
 
