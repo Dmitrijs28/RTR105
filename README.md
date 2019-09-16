@@ -35,6 +35,23 @@ Studiju kursa Datormācība (pamatkurss) elektronikas fakultate
 
 9.**history** - komandu rakstīšanas vēsture;
 
+10.**touch** - izveidot jaunu failu;
+
+11.**cat** - apskatīties faila piem. tekstu tajā;
+
+12.**echo** - attēlot tekstu terminālā;
+
+13.**mv** - pārvietot failu;
+
+14.**rm** - dzēst failu;
+
+15.**ls -l (*.txt)** - meklēt failus ar noteiktu parametru (.txt);
+
+16.**ls -l (*.*xt*)** - meklēt failus ar noteiktu parametru (jebkas pirms,tad . jebkas pēc, tad xt un jebkas pēc);
+
+17.**echo Hello World! > bbb.txt** - ierakstīt failā bbb.txt doto textu pēc echo;
+
+
 **Glabātuves izskaidrojums un navigācija tajā**
 
 1.**(/)** - saknes apgabals;
@@ -46,6 +63,10 @@ Studiju kursa Datormācība (pamatkurss) elektronikas fakultate
 4.**(.)** - tekošā atrašanās vieta;
 
 5.**(..)** - solis atpakaļ no mape, līdz /;
+
+**Teksta novietojums un tā izskats**
+
+1.**echo -e "Hello/vWorld!"** - teksts tiek pārnests vertikāli uz leju pēc (/v);
 
 
 
