@@ -60,3 +60,38 @@
    60  ls -l
    61  history
    62  history > history_20190916.txt
+   63  ls -l
+   64  cat history_20190916.txt 
+   65  pwd
+   66  nano MansPirmaisSkripts.sh
+   67  ls -l
+   68  cat MansPirmaisSkripts.sh 
+   69  ls
+   70  whereis ls
+   71  whereis MansPirmainsSkripts
+   72  ls
+   73  ls -l
+   74  ls -l /bin/ls
+   75  ./MansPirmaisSkripts
+   76  ls
+   77  ./MansPirmaisSkripts.sh
+   78  echo $PATH
+   79  PATH=$PATH:~
+   80  echo $PATH
+   81  whereis MansPirmaisSkripts
+   82  ls -l MansPirmaisSkripts.sh
+   83  chmod 740 MansPirmaisSkripts.sh
+   84  ls -l MansPirmaisSkripts
+   85  ls -l MansPirmaisSkripts.shpwd
+   86  ls -l
+   87  nano MansPirmaisSkripts.sh 
+   88  ls -l
+   89  MansPirmaisSkripts.sh 
+   90  ls -l
+   91  cat log.txt 
+   92  cat error.txt 
+   93  ls -l
+   94  cat z100.txt 
+   95  nano MansPirmaisSkripts.sh 
+   96  history
+   97  history > history_20190916.txt 
