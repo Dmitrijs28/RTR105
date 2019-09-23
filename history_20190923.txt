@@ -54,3 +54,70 @@
    54  ls -l
    55  cd ..
    56  history > history_20190923.txt
+   57  ls -l
+   58  ./git-upload 20190923_16_08
+   59  ls -l
+   60  pwd
+   61  ls -ls
+   62  cat hello.c
+   63  cd ./user/home
+   64  ls -l
+   65  nano hello.c
+   66  gcc hello.c
+   67  nano hello.c
+   68  gcc hello.c
+   69  ls -l
+   70  rm a.out
+   71  ls -l
+   72  cp hello.c 02.c
+   73* 
+   74  gcc 02.c 
+   75  ls -l
+   76  ./02.c
+   77  nano 02.c 
+   78  gcc 02.c
+   79  ls =l
+   80  ls -l
+   81  cat a.out 
+   82  cat 02.c 
+   83  ./02.c
+   84  nano 02.c
+   85  gcc 02.c
+   86  nano 02.c 
+   87  cat 02.c 
+   88  gcc 02.c 
+   89  ./02.c
+   90  nano 02.c 
+   91  gcc 02.c 
+   92  nano 02.c 
+   93  gcc 02.c 
+   94  nano 02.c 
+   95  gcc 02.c 
+   96  nano 02.c 
+   97  gcc 02.c 
+   98  ./02.c
+   99  nano 02.c 
+  100  ls -l
+  101  rm a.out 
+  102  ls -l
+  103  gcc 02.c -o prog1
+  104  ./prog1
+  105  nano 02.c 
+  106  gcc 02.c -o prog2
+  107  ./prog2
+  108  nano 02.c 
+  109  gcc 02.c -o prog3
+  110  ./prog3
+  111  nano 02.c 
+  112  gcc 02.c -o prog4
+  113  ./prog4
+  114  nano 02.c 
+  115  gcc 02.c -o prog5
+  116  ./prog5
+  117  nano 02.c 
+  118  gcc 02.c -o prog7
+  119  ./prog7
+  120  ls -l
+  121  rm prog*
+  122  ls -l
+  123  history > history_20190923.txt
