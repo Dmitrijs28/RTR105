@@ -1,17 +1,56 @@
     1  VirtualBox --startvm XP
     2  quartus
     3  firefox
-    4  git clone https://github.com/Dmitrijs28/RTR105
-    5  ls -ls
-    6  ls -l
-    7  cd RTR105/
-    8  psd
-    9  pwd
-   10  nano git-upload
-   11  ls -l
-   12  nano git-upload
-   13  ls -l
-   14  chmod 755 git-upload 
-   15  history
-   16  ls -l
-   17  history > history_20190923.txt
+    4  pwd
+    5  mkdir darbi
+    6  cd darbi
+    7  pse
+    8  pwd
+    9  ls -l
+   10  cd darbi
+   11  cd darbipwd
+   12  pwd
+   13  nano elementary.c
+   14  ls -l
+   15  cat elementary.c 
+   16  gcc elementary.c 
+   17  ls -l
+   18  cat a.out 
+   19  nano elementary.c 
+   20  cat elementary.c 
+   21  gcc elementary.c -o prg1
+   22  ls -l
+   23  ./prg1
+   24  ./a.out 
+   25  nano elementary.c 
+   26  gcc elementary.c -o prg2
+   27  ls -l
+   28  nano elementary.c 
+   29  ls -l
+   30  gcc elementary.c -o prg3
+   31  ls -l
+   32  cp elementary.c hello.c
+   33  ls -l
+   34  nano hello.c 
+   35  gcc hello.c -o prg4
+   36  nano hello.c 
+   37  gcc hello.c -o prg4
+   38  nano hello.c 
+   39  gcc hello.c -o prg4
+   40  ls -l
+   41  ./prg4
+   42  nano hello.c 
+   43  gcc hello.c -o prg5
+   44  ls -l
+   45  ./prg5
+   46  ls -l
+   47  ./prg5
+   48  nano hello.c 
+   49  gcc hello.c -o prg6
+   50  ./prg 6
+   51  ./prg6
+   52  rm prg*
+   53  rm a.out 
+   54  ls -l
+   55  cd ..
+   56  history > history_20190923.txt
