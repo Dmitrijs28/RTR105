@@ -1,3 +1,4 @@
+```python
 #include<stdio.h>
 #include<math.h>
 
@@ -53,3 +54,4 @@ printf(
 printf("C    cos(%lf) = %lf\n\n", x, cos(x));
 printf("Mans cos(%lf) = %lf\n", x, _cos(x));
 }
+```
